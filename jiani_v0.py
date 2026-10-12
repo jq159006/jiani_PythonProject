@@ -7,4 +7,3 @@ c = a+b
 print(c)
 print(f'a={a}')
 print(f'b={b}')
-print(f'c={c}')
